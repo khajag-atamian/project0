@@ -11,28 +11,13 @@
           <p>this is <small>second</small> edit</p>
           <a href="htpps://www.google.com">search engine</a>
           <a href="secondfile.html">about second page</a>
+          
         </div>
 
-        <div>
-       <h1>heading 1</h1>
-       <h2>heading 2</h2>
-       <h3>heading 3</h3>
-       <h4>heading 4</h4>
-       </div>
-       <div>
-       <ul>
-         <li>khajag</li>
-         <li>Sevag</li>
-       </ul>
-       </div>
 
-      <span>Im the <br>King</span>
       <hr>
       <img src="IMG_20190628_121949 (1).jpg" alt="pic of driving license">
 
-<blockquote cite="http://www.oscarwildsite.com">
-  Mistakes makes Masters
-</blockquote>
 
         </body>
 </html>
